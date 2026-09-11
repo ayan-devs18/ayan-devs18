@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-qamar-dev/)
 [![Email](https://img.shields.io/badge/Email-ayanqamar18%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanqamar18@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-D6A84B?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-ten-dun-blwtwelgc6.vercel.app)
 [![Location](https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
