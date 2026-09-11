@@ -55,15 +55,16 @@ const aayan = {
 
 ## GitHub activity
 
-<div align="center">
+My current public work is available directly on GitHub:
 
-![Aayan's GitHub statistics](https://github-readme-stats.vercel.app/api?username=ayan-devs18&show_icons=true&hide_border=true&theme=transparent&title_color=14B8A6&icon_color=22C55E&text_color=64748B)
+| Activity | Repository |
+| --- | --- |
+| Portfolio redesign with GSAP and custom SVG graphics | [Portfolio-website](https://github.com/ayan-devs18/Portfolio-website) |
+| Interactive dashboard development | [Interactive-data-visualization-dashboard](https://github.com/ayan-devs18/Interactive-data-visualization-dashboard) |
+| Learning-product interface development | [Flashcards-Generator](https://github.com/ayan-devs18/Flashcards-Generator) |
+| Responsive ecommerce interface development | [Fruitable-Ecommerce](https://github.com/ayan-devs18/Fruitable-Ecommerce-) |
 
-![Most used public languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-devs18&layout=compact&hide_border=true&theme=transparent&title_color=14B8A6&text_color=64748B)
-
-![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=ayan-devs18&bg_color=transparent&color=14B8A6&line=22C55E&point=0F766E&area=true&hide_border=true)
-
-</div>
+[View contribution activity](https://github.com/ayan-devs18?tab=overview) · [Browse all repositories](https://github.com/ayan-devs18?tab=repositories)
 
 ## Let's work together
 
