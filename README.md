@@ -61,6 +61,7 @@ const aayan = {
 | Web Vitals Command Center | Performance and accessibility diagnostics with actionable route-level findings | [Repository](https://github.com/ayan-devs18/Web-Vitals-Command-Center) · [Demo](https://ayan-devs18.github.io/Web-Vitals-Command-Center/) |
 | Webhook Reliability Console | Delivery tracking, retries, idempotency, and dead-letter operations | [Repository](https://github.com/ayan-devs18/Webhook-Reliability-Console) · [Demo](https://ayan-devs18.github.io/Webhook-Reliability-Console/) |
 | AI Support Triage Workspace | Human-in-the-loop classification, suggested actions, and auditability | [Repository](https://github.com/ayan-devs18/AI-Support-Triage-Workspace) · [Demo](https://ayan-devs18.github.io/AI-Support-Triage-Workspace/) |
+| Client Automation Toolkit | A practical delivery playbook for CRM automation, SEO audits, website monitoring, authorized rebuilds, and public-data research | [Repository](https://github.com/ayan-devs18/Client-Automation-Toolkit) |
 
 ## GitHub activity
 
